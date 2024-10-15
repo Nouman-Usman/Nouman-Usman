@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Nouman</h1>
-<h3 align="center">A passionate developer interesting in teaching a plastic box to think like humans.</h3>
-
+<h3 align="center">A passionate developer interested in teaching a plastic box to think like humans.</h3>
+<h4 align="center">Currently Working on Legal Assistant.</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nouman-usman&label=Profile%20views&color=0e75b6&style=flat" alt="nouman-usman" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nouman-usman" alt="nouman-usman" /></a> </p>
